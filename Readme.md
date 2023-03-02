@@ -3,5 +3,3 @@
 # Primeira Alteração do código.
 
 ## Alteração de Branch (teste-branch)
-
-## Alteração feita na branch main 
